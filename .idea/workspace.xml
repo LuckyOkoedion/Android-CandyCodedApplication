@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,10 +178,10 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="258" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.873@0.27.1600.873" timestamp="1601292127497" />
-    <state x="608" y="175" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1601294073021">
+    <state x="608" y="175" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1602672025482">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="608" y="175" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/0.27.1600.873@0.27.1600.873" timestamp="1601294073021" />
+    <state x="608" y="175" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/0.27.1600.873@0.27.1600.873" timestamp="1602672025482" />
     <state x="1032" y="353" width="307" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601289355749">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
